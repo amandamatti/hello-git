@@ -1,11 +1,12 @@
 # hello-git
 DT173G Moment 1, practicing git and github
 # Moment 1
-Här är en lista över några kurser jag läst
-* DT163G
-* DT084G
-* DT057G
+I kursen *DT173G* ska vi lära oss Github. 
 
-Jag heter *Amanda Matti*
+## Uppgiften går ut på att:
+* Förstå syftet med ett versionshanteringssystem. 
+* Kunna använda Git för versionshantering. 
+* Använda en molntjänst för att publicera Git-baserade datasamlingar.
 
-[Här är en länk till min studentsida](http://studenter.miun.se/~amma1702/ "Amandas sida")
+Jag övar på att använda [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown").
+
