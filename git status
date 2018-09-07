@@ -1,0 +1,52 @@
+[33mcommit 12755c52947705890c0b1b573462829571007ca2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Amanda Matti <ammis_matti@hotmail.com>
+Date:   Fri Sep 7 09:50:14 2018 +0200
+
+    Created index.html
+
+[33mcommit a2a9fd828d00dddac983ad0769d990ff69d1e287[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Amanda <42970126+amandamatti@users.noreply.github.com>
+Date:   Fri Sep 7 09:38:38 2018 +0200
+
+    Update README.md
+    
+    Updated the heading
+
+[33mcommit 33df16dc4c75c45741b49b21333e5c58bff2c0f2[m
+Merge: 269a20e 647b774
+Author: Amanda <42970126+amandamatti@users.noreply.github.com>
+Date:   Thu Sep 6 17:23:17 2018 +0200
+
+    Merge pull request #1 from amandamatti/testbranch
+    
+    Testbranch
+
+[33mcommit 647b7747da37d1a02d3411afe55781f8265d7158[m[33m ([m[1;31morigin/testbranch[m[33m)[m
+Author: Amanda <42970126+amandamatti@users.noreply.github.com>
+Date:   Thu Sep 6 17:10:31 2018 +0200
+
+    Update README.md
+    
+    Updated the information
+
+[33mcommit ee2dbd287ad4dc82a6c719fa5e3cbc6cf75e0ee1[m
+Author: Amanda <42970126+amandamatti@users.noreply.github.com>
+Date:   Thu Sep 6 17:05:36 2018 +0200
+
+    Update README.md
+    
+    Updated the list
+
+[33mcommit 5259291fbf6fcf678788d08f0a31699e04d99550[m
+Author: Amanda <42970126+amandamatti@users.noreply.github.com>
+Date:   Thu Sep 6 17:04:32 2018 +0200
+
+    Update README.md
+    
+    updated the readme-file with some info about me
+
+[33mcommit 269a20e19dde8ad1db6f37e572827f8dfa4f11c7[m
+Author: Amanda <42970126+amandamatti@users.noreply.github.com>
+Date:   Thu Sep 6 16:56:40 2018 +0200
+
+    Initial commit
