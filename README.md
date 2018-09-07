@@ -1,7 +1,7 @@
 # hello-git
-DT173G Moment 1, practicing git and github
+DT173G Moment 1, practicing github
 # Moment 1
-I kursen *DT173G* ska vi lära oss Github. 
+I kursen *DT173G - Webbutveckling III* ska vi lära oss Github. 
 
 ## Uppgiften går ut på att:
 * Förstå syftet med ett versionshanteringssystem. 
